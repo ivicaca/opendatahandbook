@@ -9,7 +9,7 @@ Nove tehnologije omoguÄ‡avaju da dobijemo odgovor na ova pitanja automatski. VeÄ
 
 
 
-## Zasluge i autorska prava
+## Autori i reference
 
 ### Autori
 
